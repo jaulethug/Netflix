@@ -19,3 +19,9 @@ Route::get('/',
 )->name('films.index');
 Route::get('films.create',
 [FilmsController::class,'films.create']);
+Route::get('films.create',
+[FilmsController::class,'films.create']);
+Route::get('films.create',
+[FilmsController::class,'films.create']);
+Route::get('films.create',
+[FilmsController::class,'films.create']);
