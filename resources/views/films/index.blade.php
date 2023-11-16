@@ -21,17 +21,17 @@
         <a id="logo" href="#home"><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/logo.PNG?raw=true" alt="Logo Image"></a>
       </div>      
       <nav class="main-nav">                
-        <a href="#home">Home</a>
-        <a href="#tvShows">TV Shows</a>
-        <a href="#movies">Movies</a>
-        <a href="#originals">Originals</a>
-        <a href="#">Recently Added</a>
+        <a href="#home">Acceuil</a>
+        <a href="#tvShows">Émissions Télé</a>
+        <a href="#movies">Films</a>
+        <a href="#originals">Originaux</a>
+        <a href="#">Recemment ajoutés</a>
         <a target="_blank" href="https://codepen.io/cb2307/full/NzaOrm">Portfolio</a>        
       </nav>
       <nav class="sub-nav">
         <a href="#"><i class="fas fa-search sub-nav-logo"></i></a>
         <a href="#"><i class="fas fa-bell sub-nav-logo"></i></a>
-        <a href="#">Account</a>        
+        <a href="#">Compte</a>        
       </nav>      
     </header>
     <!-- END OF HEADER -->
@@ -39,7 +39,7 @@
     <!-- MAIN CONTAINER -->
     <section class="main-container" >
       <div class="location" id="home">
-          <h1 id="home">Popular on Netflix</h1>
+          <h1 id="home">populaire sur Netflix</h1>
           <div class="box">
             <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p1.PNG?raw=true" alt=""></a>
             <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/p2.PNG?raw=true" alt=""></a>
@@ -58,7 +58,7 @@
       </div>
       
 
-      <h1 id="myList">Trending Now</h1>
+      <h1 id="myList">Tendance en ce moment</h1>
       <div class="box">
         <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/t1.PNG?raw=true" alt=""></a>
         <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/t2.PNG?raw=true" alt=""></a>
@@ -68,7 +68,7 @@
         <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/t6.PNG?raw=true" alt=""></a>                  
       </div>
       
-      <h1 id="tvShows">TV Shows</h1>
+      <h1 id="tvShows">Émissions télé</h1>
       <div class="box">
         <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv1.PNG?raw=true" alt=""></a>
         <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/tv2.PNG?raw=true" alt=""></a>
@@ -86,7 +86,7 @@
       </div>
       
 
-      <h1 id="movies">Blockbuster Action & Adventure</h1>
+      <h1 id="movies">Blockbuster Action & Aventure</h1>
       <div class="box">
         <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/m1.PNG?raw=true" alt=""></a>
         <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/m2.PNG?raw=true" alt=""></a>
@@ -96,7 +96,7 @@
         <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/m6.PNG?raw=true" alt=""></a>                
       </div>
 
-      <h1 id="originals">Netflix Originals</h1>
+      <h1 id="originals">Originaux Netflix</h1>
       <div class="box">
         <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/o1.PNG?raw=true" alt=""></a>
         <a href=""><img src="https://github.com/carlosavilae/Netflix-Clone/blob/master/img/o2.PNG?raw=true" alt=""></a>
@@ -118,18 +118,18 @@
       </div>
       <div class="sub-links">
         <ul>
-          <li><a href="#">Audio and Subtitles</a></li>
-          <li><a href="#">Audio Description</a></li>
-          <li><a href="#">Help Center</a></li>
-          <li><a href="#">Gift Cards</a></li>
-          <li><a href="#">Media Center</a></li>
-          <li><a href="#">Investor Relations</a></li>
-          <li><a href="#">Jobs</a></li>
-          <li><a href="#">Terms of Use</a></li>
-          <li><a href="#">Privacy</a></li>
-          <li><a href="#">Legal Notices</a></li>
-          <li><a href="#">Corporate Information</a></li>
-          <li><a href="#">Contact Us</a></li>
+          <li><a href="#">Audio et sous-titres</a></li>
+          <li><a href="#">Description audiovisuelle</a></li>
+          <li><a href="#">Aide</a></li>
+          <li><a href="#">Cartes cadeaux</a></li>
+          <li><a href="#">Centre Média</a></li>
+          <li><a href="#">Relations investisseurs</a></li>
+          <li><a href="#">Emplois</a></li>
+          <li><a href="#">Termes D'utilisation</a></li>
+          <li><a href="#">Privé</a></li>
+          <li><a href="#">Notes légales</a></li>
+          <li><a href="#">Informations corporatives</a></li>
+          <li><a href="#">Contactez-nous</a></li>
         </ul>
       </div>
     </section>

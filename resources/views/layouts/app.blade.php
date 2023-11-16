@@ -14,6 +14,6 @@
     @yield('contenu')
 
     
-    <footer>jeremie des ruisseaux</footer>
+    <footer>jeremie des ruisseaux et Hugo Girard</footer>
 </body>
 </html>
