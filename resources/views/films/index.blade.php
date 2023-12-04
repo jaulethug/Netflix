@@ -22,7 +22,7 @@
       </div>      
       <nav class="main-nav">                
         <a href="#home">Acceuil</a>
-        <a href="#tvShows">Émissions Télé</a>
+        <a id="bouttonaj" href="{{ route('films.create') }}">Ajouter un film</a>
         <a href="#movies">Films</a>
         <a href="#originals">Originaux</a>
         <a href="#">Recemment ajoutés</a>

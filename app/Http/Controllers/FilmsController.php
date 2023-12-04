@@ -43,7 +43,7 @@ class FilmsController extends Controller
      */
     public function edit(string $id)
     {
-        return View('films.edit')
+        return View('films.edit');
     }
 
     /**

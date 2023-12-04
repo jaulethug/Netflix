@@ -17,5 +17,6 @@ use views\layouts\app;
 Route::get('/',
 [FilmsController::class,'index']
 )->name('films.index');
+
 Route::get('films.create',
-[FilmsController::class,'films.create']);
+[FilmsController::class,'create'])->name('films.create');
